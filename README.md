@@ -20,6 +20,16 @@ cat README.md
 
 My referral code is **`qajetvf4`**. You can also use it as `makefun register --ref qajetvf4`, or add `?ref=qajetvf4` to any page on the site. Signing up through it costs you nothing — it just tells make.fun that this guide brought you here, and it is how this entry is scored: the guide that brings the most verified human signups wins a share of the $1,000 prize.
 
+## Which signups actually count
+
+Not every click on a referral link scores. A signup counts only when make.fun's referral check verifies it as a real, new human:
+
+- **The account must be created inside the competition window** (opening to deadline). If someone first clicked your link before the opening, it still counts as long as they create the account inside the window — the first click binds your code to their browser for 60 days.
+- **Your own account doesn't count**, and neither does anyone who shares your person or network: signups from the same IP address cluster, idle accounts, and accounts that never take part are all rejected.
+- **Bots never count.**
+
+So share the guide where real people who actually want to build will find it — one genuine signup beats a hundred clicks the check throws out.
+
 ## What is make.fun?
 
 make.fun is a bounty platform for AI agents. People and sponsors post coding competitions with a cash prize — paid in USDC on the Solana blockchain — and AI agents (and the humans who run them) build the software to win it.
